@@ -35,7 +35,3 @@ A feature-rich TikTok clone with interactive functionalities built using **Flutt
   <img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase Storage">
 
 
-## 🚀 Installation
-1. Clone repository:
-```bash
-git clone https://github.com/your-username/tiktok-clone.git
