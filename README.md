@@ -1,16 +1,45 @@
-# tiktok_clone
+# TikTok Clone 🎵  
+A feature-rich TikTok clone with interactive functionalities built using **Flutter** & **Firebase**
 
-A new Flutter project.
+![App Demo](https://via.placeholder.com/800x400?text=Demo+Video+Here) <!-- Replace with actual demo video -->
 
-## Getting Started
+## ✨ Key Features
+- **User Authentication** 🔐
+  - Login with Email/Password
+  - Signup with Email/Password
+- **User Search** 👥
+- **Real-time Comments** 💬
+- **Video Playback** ▶️
+- **Video Upload** 📤
+- TikTok-style UI/UX 📱
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
+<div align="center">
+  <img src="./assets/screenshots/1-login.jpg" width="200" alt="Login Screen">
+  <img src="./assets/screenshots/2-signin.jpg" width="200" alt="Signup Screen">
+  <img src="./assets/screenshots/3-search.jpg" width="200" alt="Search Interface">
+  <img src="./assets/screenshots/4-comments.jpg" width="200" alt="Comments Section">
+  <img src="./assets/screenshots/5-watch.jpg" width="200" alt="Video Viewing">
+  <img src="./assets/screenshots/6-home.jpg" width="200" alt="Home">
+  <img src="./assets/screenshots/7-upload.jpg" width="200" alt="Video Upload">
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
+- **Frontend**:  
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">  
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Backend**:  
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">  
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firestore">  
+  <img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase Storage">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Key Packages**:
+  - Provider (State Management)
+  - Video Player (Video Playback)
+  - Firebase Auth (Authentication)
+
+## 🚀 Installation
+1. Clone repository:
+```bash
+git clone https://github.com/your-username/tiktok-clone.git
