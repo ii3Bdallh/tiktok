@@ -1,7 +1,7 @@
 # TikTok Clone 🎵  
 A feature-rich TikTok clone with interactive functionalities built using **Flutter** & **Firebase**
 
-![App Demo](https://via.placeholder.com/800x400?text=Demo+Video+Here) <!-- Replace with actual demo video -->
+
 
 ## ✨ Key Features
 - **User Authentication** 🔐
@@ -34,10 +34,6 @@ A feature-rich TikTok clone with interactive functionalities built using **Flutt
   <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firestore">  
   <img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase Storage">
 
-- **Key Packages**:
-  - Provider (State Management)
-  - Video Player (Video Playback)
-  - Firebase Auth (Authentication)
 
 ## 🚀 Installation
 1. Clone repository:
